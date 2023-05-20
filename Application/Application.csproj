@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+	<RootNamespace>Application</RootNamespace>
+	<AssemblyName>Application</AssemblyName>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Services\Cities\EventHandlers\**" />
+    <EmbeddedResource Remove="Services\Cities\EventHandlers\**" />
+    <None Remove="Services\Cities\EventHandlers\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="10.4.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.4" />
+    <!--<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />-->
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Common\Behaviours\" />
+    <Folder Include="Helpers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<Compile Remove="Common\Behaviours\AuthorizationBehaviour.cs" />
+		<Compile Remove="Common\Behaviours\LoggingBehaviour.cs" />
+		<Compile Remove="Common\Behaviours\PerformanceBehaviour.cs" />
+		<Compile Remove="Common\Behaviours\UnhandledExceptionBehaviour.cs" />
+		<Compile Remove="Common\Behaviours\ValidationBehaviour.cs" />
+	</ItemGroup>
+</Project>

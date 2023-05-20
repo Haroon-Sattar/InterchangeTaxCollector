@@ -1,0 +1,190 @@
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\appsettings.json
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\WebAPI.exe
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\WebAPI.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\AutoMapper.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\CsvHelper.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Duende.IdentityServer.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\FluentValidation.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\IdentityModel.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\MediatR.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Application.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Domain.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Infrastructure.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Application.pdb
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Infrastructure.pdb
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Domain.pdb
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\obj\Debug\net6.0\WebAPI.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Humanizer.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\appsettings.json
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\WebAPI.exe
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\WebAPI.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\AutoMapper.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\CsvHelper.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Duende.IdentityServer.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\FluentValidation.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Humanizer.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\IdentityModel.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\MediatR.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Application.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Domain.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Infrastructure.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Application.pdb
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Infrastructure.pdb
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\bin\Debug\net6.0\Domain.pdb
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\obj\Debug\net6.0\WebAPI.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+E:\Muhammad Haroon\SmahCloudAssignment\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll

@@ -1,0 +1,24 @@
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\Domain\bin\Debug\net6.0\Domain.deps.json
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\Domain\bin\Debug\net6.0\Domain.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\Domain\bin\Debug\net6.0\Domain.pdb
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\Domain\obj\Debug\net6.0\Domain.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\Domain\obj\Debug\net6.0\refint\Domain.dll
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\Domain\obj\Debug\net6.0\Domain.pdb
+F:\Muhammad Haroon\dSmart Solutions\Projects Workspace\DotNetCore6BlankProject\git\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Muhammad Haroon\SmahCloudAssignment\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Muhammad Haroon\SmahCloudAssignment\Domain\bin\Debug\net6.0\Domain.dll
+E:\Muhammad Haroon\SmahCloudAssignment\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Muhammad Haroon\SmahCloudAssignment\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Muhammad Haroon\SmahCloudAssignment\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Muhammad Haroon\SmahCloudAssignment\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Muhammad Haroon\SmahCloudAssignment\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Muhammad Haroon\SmahCloudAssignment\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Muhammad Haroon\SmahCloudAssignment\Domain\obj\Debug\net6.0\Domain.dll
+E:\Muhammad Haroon\SmahCloudAssignment\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Muhammad Haroon\SmahCloudAssignment\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Muhammad Haroon\SmahCloudAssignment\Domain\obj\Debug\net6.0\ref\Domain.dll
