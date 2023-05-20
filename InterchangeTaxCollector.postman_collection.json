@@ -1,0 +1,71 @@
+{
+	"info": {
+		"_postman_id": "8a400e61-6fd8-4600-a554-ae0e1e1bd810",
+		"name": "InterchangeTaxCollector",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Vehicle Entry",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"interchangeId\": 5,\r\n  \"numberPlate\": \"HAR-793\",\r\n  \"entryDate\": \"2023-08-14T17:12:01.995Z\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7105/api/Toll/v1/VehicleEntry",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7105",
+					"path": [
+						"api",
+						"Toll",
+						"v1",
+						"VehicleEntry"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Vehicle Exit",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"interchangeId\": 5,\r\n  \"numberPlate\": \"HAR-793\",\r\n  \"exitDate\": \"2023-04-14\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7105/api/Toll/v1/VehicleEntry",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7105",
+					"path": [
+						"api",
+						"Toll",
+						"v1",
+						"VehicleEntry"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
